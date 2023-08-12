@@ -1,0 +1,21 @@
+package BasicOfJava;
+import java.util.Scanner;
+
+public class Hacker_rank_questions {
+ public static void printSum(int i , int n , int sum){
+//     if(sum==n){
+//         sum += i;
+//         System.out.println(sum);
+//         return;
+//     }
+//     sum+= i;
+//     printSum(i+1 ,n ,sum);
+//     System.out.println(i);
+// }
+//    public static void main(String[] args) {
+//       printSum(1,5,0);
+
+
+
+    }
+}
